@@ -1,0 +1,22 @@
+body{
+	width: 940px;
+
+	margin: auto;
+}
+img{
+	width: 940px;
+
+	align-content: center;
+}
+.section1{
+	width: 680px;
+	margin: auto;
+	text-align: center;
+}
+.icon1{
+	width: 240px;
+	display: inline-block;
+	padding: 100px 35px;
+	text-align: center;
+}
+
